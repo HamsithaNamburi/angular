@@ -1,0 +1,6 @@
+D:\Hamsitha\6-1-2020\jaggedarray\bin\Debug\jaggedarray.exe.config
+D:\Hamsitha\6-1-2020\jaggedarray\bin\Debug\jaggedarray.exe
+D:\Hamsitha\6-1-2020\jaggedarray\bin\Debug\jaggedarray.pdb
+D:\Hamsitha\6-1-2020\jaggedarray\obj\Debug\jaggedarray.exe
+D:\Hamsitha\6-1-2020\jaggedarray\obj\Debug\jaggedarray.pdb
+D:\Hamsitha\6-1-2020\jaggedarray\obj\Debug\jaggedarray.csprojAssemblyReference.cache

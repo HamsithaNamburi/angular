@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\arrayprogram\bin\Debug\arrayprogram.exe.config
+C:\Users\Dell\source\repos\arrayprogram\bin\Debug\arrayprogram.exe
+C:\Users\Dell\source\repos\arrayprogram\bin\Debug\arrayprogram.pdb
+C:\Users\Dell\source\repos\arrayprogram\obj\Debug\arrayprogram.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\arrayprogram\obj\Debug\arrayprogram.exe
+C:\Users\Dell\source\repos\arrayprogram\obj\Debug\arrayprogram.pdb

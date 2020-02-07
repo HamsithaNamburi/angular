@@ -1,0 +1,6 @@
+D:\Hamsitha\11-1-2020\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+D:\Hamsitha\11-1-2020\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+D:\Hamsitha\11-1-2020\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+D:\Hamsitha\11-1-2020\ConsoleApp2\obj\Debug\Partial.csprojAssemblyReference.cache
+D:\Hamsitha\11-1-2020\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+D:\Hamsitha\11-1-2020\ConsoleApp2\obj\Debug\ConsoleApp2.pdb

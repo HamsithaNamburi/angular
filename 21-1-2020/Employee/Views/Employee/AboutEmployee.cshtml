@@ -1,0 +1,38 @@
+﻿@model Employemodelview
+@*@{
+//Layout ="~/Views/Shared/_Layout.cshtml" ;
+}*@
+
+@*<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>AboutEmployee</title>
+</head>
+<body>*@
+    <table border="1">
+        <thead>Employees details</thead>
+        <tr>
+            <td> ID </td>
+            <td>Name</td>
+            <td>Email</td>
+            <td>Dept</td>
+            <td>project</td>
+        </tr>
+        <tr>
+            @*<td>@Model.id</td>
+          <td>@Model.name</td>
+          <td>@Model.Email</td>
+          <td>@Model.Dept</td>
+        <td>@viewbag.Projectname</td>*@
+            <td>@Model.employee.id</td>
+          <td>@Model.employee.name</td>
+          <td>@Model.employee.Email</td>
+          <td>@Model.employee.Dept</td>
+            <td>@Model.projectname</td>
+       
+        </tr>
+    </table>
+@*</body>
+</html>*@

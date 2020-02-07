@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\exception2\bin\Debug\exception2.exe.config
+C:\Users\Dell\source\repos\exception2\bin\Debug\exception2.exe
+C:\Users\Dell\source\repos\exception2\bin\Debug\exception2.pdb
+C:\Users\Dell\source\repos\exception2\obj\Debug\exception2.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\exception2\obj\Debug\exception2.exe
+C:\Users\Dell\source\repos\exception2\obj\Debug\exception2.pdb

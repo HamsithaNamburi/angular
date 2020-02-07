@@ -1,0 +1,42 @@
+﻿@model IEnumerable<seller2.Model.myseller>
+@{
+    Layout = "~/Views/shared/_Layout.cshtml";
+}
+
+@*<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>*@
+
+    <table border="1">
+        <thead>Seller details</thead>
+        <tr>
+            <td>Seller Id</td>
+            <td>Username</td>
+            <td>Password</td>
+            <td>GSTIN</td>
+            <td>Address</td>
+            <td>Website</td>
+            <td>Email</td>
+            <td>Contact Number</td>
+        </tr>
+        @foreach (var ss in Model)
+        {
+            <tr>
+                <td>@ss.s_id</td>
+                <td>@ss.username</td>
+                <td>@ss.password</td>
+                <td>@ss.GSTIN</td>
+                <td>@ss.Address</td>
+                <td>@ss.website</td>
+                <td>@ss.Email</td>
+                <td>@ss.c_no</td>
+            </tr>
+        }
+    </table>
+@*</body>
+</html>*@

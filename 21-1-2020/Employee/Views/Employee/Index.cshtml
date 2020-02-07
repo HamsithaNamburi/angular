@@ -1,0 +1,36 @@
+﻿@model IEnumerable<MyEmployee>
+@*@{
+    Layout = null;
+}*@
+
+@*<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>*@
+    <table border="1">
+        <thead>Employees details</thead>
+        <tr>
+            <td> ID </td>
+            <td>Name</td>
+            <td>Email</td>
+            <td>Dept</td>
+        </tr>
+        
+           @foreach(var eli in Model)
+           {
+    <tr>
+        <td>@eli.id </td>
+        <td>@eli.name</td>
+        <td>@eli.Email</td>
+        <td>@eli.Dept</td>
+    </tr>
+
+            }
+       
+        </table>
+@*</body>
+</html>*@

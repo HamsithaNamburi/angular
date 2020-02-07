@@ -1,0 +1,6 @@
+D:\Hamsitha\11-1-2020\factory1\bin\Debug\factory1.exe.config
+D:\Hamsitha\11-1-2020\factory1\bin\Debug\factory1.exe
+D:\Hamsitha\11-1-2020\factory1\bin\Debug\factory1.pdb
+D:\Hamsitha\11-1-2020\factory1\obj\Debug\factory1.exe
+D:\Hamsitha\11-1-2020\factory1\obj\Debug\factory1.pdb
+D:\Hamsitha\11-1-2020\factory1\obj\Debug\factory1.csprojAssemblyReference.cache

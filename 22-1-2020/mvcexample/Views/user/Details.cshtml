@@ -1,0 +1,10 @@
+﻿@model mvcexample.Models.user;
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>@Html.DisplayFor(m=>m.Name)</h1>
+<h2>Password @Html.DisplayFor(m=>m.pwd)</h2>
+@Html.ActionLink("logout", "login", "User")
+

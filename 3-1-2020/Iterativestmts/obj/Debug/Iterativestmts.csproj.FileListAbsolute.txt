@@ -1,0 +1,6 @@
+D:\Hamsitha\3-1-2020\Iterativestmts\bin\Debug\Iterativestmts.exe.config
+D:\Hamsitha\3-1-2020\Iterativestmts\bin\Debug\Iterativestmts.exe
+D:\Hamsitha\3-1-2020\Iterativestmts\bin\Debug\Iterativestmts.pdb
+D:\Hamsitha\3-1-2020\Iterativestmts\obj\Debug\Iterativestmts.exe
+D:\Hamsitha\3-1-2020\Iterativestmts\obj\Debug\Iterativestmts.pdb
+D:\Hamsitha\3-1-2020\Iterativestmts\obj\Debug\Iterativestmts.csprojAssemblyReference.cache

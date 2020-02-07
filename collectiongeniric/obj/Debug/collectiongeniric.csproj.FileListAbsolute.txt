@@ -1,0 +1,6 @@
+C:\Users\Dell\source\repos\collectiongeniric\bin\Debug\collectiongeniric.exe.config
+C:\Users\Dell\source\repos\collectiongeniric\bin\Debug\collectiongeniric.exe
+C:\Users\Dell\source\repos\collectiongeniric\bin\Debug\collectiongeniric.pdb
+C:\Users\Dell\source\repos\collectiongeniric\obj\Debug\collectiongeniric.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\collectiongeniric\obj\Debug\collectiongeniric.exe
+C:\Users\Dell\source\repos\collectiongeniric\obj\Debug\collectiongeniric.pdb

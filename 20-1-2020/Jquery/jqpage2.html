@@ -1,0 +1,46 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <style>
+        /*p{
+            background-color:aquamarine;
+        }*/
+        img{
+            position:relative;
+            margin-left:400px;
+        }
+    </style>
+    <script>
+       
+    $(document).ready(function () {
+        //$(".out-btn").click(function () {
+        //    $("p").fadeOut(3000);
+        //});
+        //$(".in-btn").click(function () {
+        //    $("p").fadeIn(3000);
+        //});
+       
+            $("button").click(function () {
+                $("img").animate({
+                    right: 300
+                });
+            });
+        });
+   
+    </script>
+</head>
+<body>
+
+    <!--<p>this is a paragraph</p>
+    <p>this is paragraph2 </p>
+    <button type="button" class="out-btn">
+        fade out paragraph
+    </button>
+    <button type="button" class="in-btn">fade in paragraph</button>-->
+    <button>start animation</button>
+    <img src="Jerry_Mouse.png"  alt="jerry" />
+</body>
+</html>

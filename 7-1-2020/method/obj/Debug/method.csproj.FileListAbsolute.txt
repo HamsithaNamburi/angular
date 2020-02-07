@@ -1,0 +1,6 @@
+D:\Hamsitha\7-1-2020\method\bin\Debug\method.exe.config
+D:\Hamsitha\7-1-2020\method\bin\Debug\method.exe
+D:\Hamsitha\7-1-2020\method\bin\Debug\method.pdb
+D:\Hamsitha\7-1-2020\method\obj\Debug\method.csprojAssemblyReference.cache
+D:\Hamsitha\7-1-2020\method\obj\Debug\method.exe
+D:\Hamsitha\7-1-2020\method\obj\Debug\method.pdb

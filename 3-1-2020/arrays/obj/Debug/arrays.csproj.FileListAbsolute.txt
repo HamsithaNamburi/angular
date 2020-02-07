@@ -1,0 +1,6 @@
+D:\Hamsitha\3-1-2020\arrays\bin\Debug\arrays.exe.config
+D:\Hamsitha\3-1-2020\arrays\bin\Debug\arrays.exe
+D:\Hamsitha\3-1-2020\arrays\bin\Debug\arrays.pdb
+D:\Hamsitha\3-1-2020\arrays\obj\Debug\arrays.csprojAssemblyReference.cache
+D:\Hamsitha\3-1-2020\arrays\obj\Debug\arrays.exe
+D:\Hamsitha\3-1-2020\arrays\obj\Debug\arrays.pdb

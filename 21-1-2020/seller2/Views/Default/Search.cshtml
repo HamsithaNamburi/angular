@@ -1,0 +1,38 @@
+﻿@model seller2.Model.myseller
+@{
+    Layout = "~/Views/shared/_Layout.cshtml";
+}
+
+@*<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Search</title>
+</head>
+<body>*@
+    <table border="1">
+        <thead>Seller Details</thead>
+        <tr>
+            <td>Seller Id</td>
+            <td>Username</td>
+            <td>Password</td>
+            <td>GSTIN</td>
+            <td>Address</td>
+            <td>Website</td>
+            <td>Email</td>
+            <td>Contact Number</td>
+        </tr>
+        <tr>
+            <td>@Model.s_id</td>
+            <td>@Model.username</td>
+            <td>@Model.password</td>
+            <td>@Model.GSTIN</td>
+            <td>@Model.Address</td>
+            <td>@Model.website</td>
+            <td>@Model.Email</td>
+            <td>@Model.c_no</td>
+        </tr>
+    </table>
+@*</body>
+</html>*@

@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <marque behaviour="scroll" direction="left">divya topu vellu iytha appu</marque>
+    <form style="background-color:antiquewhite ">
+        
+        <
+        <table>
+            <thead>
+                <h1>Registration Form</h1>
+                <tr>
+                    <th>Details</th>
+                    <td>enter</td>
+
+                </tr>
+            </thead>
+            <tr>
+                <td>First Name</td>
+                <td><input type="text" disabled value="CTS"/></td>
+            </tr>
+            <tr>
+                <td>last name</td>
+                <td><input type="text" required pattern="[a-z]{3,10}"/></td>
+            </tr>
+            <tr>
+                <td>Age</td>
+                <td><input type="number" max="60" min="20" /></td>
+            </tr>
+            <tr>
+                <td>gender</td>
+                <td>
+                    <select name="gender">
+                        <option value="male">male</option>
+                        <option value="female">female</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td>state</td>
+                <td>
+                    <input id="Radio1" type="radio" />tamilnadu
+                    <input id="Radio1" type="radio" />Andhrapradesh
+                </td>
+            </tr>
+            <tr>
+                <td> country</td>
+                <td>
+                    <fieldset>
+                        <legend>  country </legend>
+                        <input id="Radio1" type="radio" name="country" />India
+                        <input id="Radio1" type="radio"name="country"/>China
+                    </fieldset>
+                </td>
+            </tr>
+            <tr>
+                <td>Address</td>
+<td>
+    <textarea id="TextArea1" rows="2" cols="20"maxlength="30"></textarea>
+</td>
+            </tr>
+        </table>
+
+        <input id="Submit1" type="submit" value="submit" />
+    </form>
+</body>
+</html>

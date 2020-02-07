@@ -1,0 +1,57 @@
+﻿@model MyEmployee
+@*@{
+    Layout = null;
+}*@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>search</title>
+</head>
+<body>
+    @*@{ 
+        var empl = ViewData["Employee"] as Employee.Models.MyEmployee;
+    }*@
+    <h1>Employee</h1>
+    <table border="1">
+        <tr>
+            <td> ID </td>
+            <td>Name</td>
+            <td>Email</td>
+            <td>Dept</td>
+        </tr>
+        @*@foreach (var e in Model){*@
+        <tr>
+            <td>@Model.id</td>
+            <td>@Model.name</td>
+            <td>@Model.Email</td>
+            <td>@Model.Dept</td>
+            </tr>
+        
+            @*//view data with key and value*@
+            @*<td>@ViewData["id"] </td>//razor syntax strats with @
+        <td>@ViewData["name"]</td>
+        <td>@ViewData["email"]</td>
+        <td>@ViewData["dept"]</td>*@
+            @*view data with object*@
+            @*<td>@empl.id</td>
+            <td>@empl.name</td>
+            <td>@empl.Email</td>
+            <td>@empl.Dept</td>
+            </tr>*@
+        @*<td>@ViewBag.name</td>*@
+            @*<td>@ViewBag.id</td>
+        <td>@ViewBag.name</td>
+        <td>@ViewBag.Email</td>
+        <td>@ViewBag.Dept</td>*@
+            @*<tr>
+            <td>@ViewBag.employee.id</td>
+            <td>@ViewBag.employee.name</td>
+            <td>@ViewBag.employee.Email</td>
+            <td>@ViewBag.employee.Dept</td>
+        </tr>*@
+    </table>
+</body>
+</html>

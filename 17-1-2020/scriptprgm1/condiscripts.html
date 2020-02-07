@@ -1,0 +1,79 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    <!--<h5>Printing Large</h5>
+    f_no <input type="number" id="n1" />
+    s_no: <input type="number" id="n2" />
+
+    <script type="text/javascript" language="javascript">
+        function large() {
+            var a = parseInt(document.getElementById("n1").value);
+            var b = parseInt(document.getElementById("n2").value);
+            if (a > b) {
+                document.write(a + "is large");
+            } else
+                document.write(b + "is large");
+        }
+    </script>
+    <input type="button" value="click" onclick="large()" />-->
+    <!--<script language="javascript" type="text/javascript">
+        var a = 10;
+        var b = 4;
+        if (a > b) {
+            document.write(a + "is large" );
+        } else
+            document.write( b + "is large" );
+    </script>-->
+    <!--<h1>Leap Year</h1>
+    f_no <input type="number" id="n1" />
+    <script type="text/javascript" language="javascript>">
+        function leap() {
+        var a = parseInt(document.getElementById("n1").value);
+        if (a % 400 == 0) document.write("Millinieum Yera");
+        else if (a % 4 == 0 && a % 100 != 0) document.write("leap year");
+        else
+                document.write("not aleap year");
+            }
+    </script>
+    <input type="button" value="click" onclick="leap()" />-->
+    <!--<script type="text/javascript">
+        var num = prompt("enter week number:");
+        document.write(num);
+        switch (num) {
+            case "1": document.write("sunday"); break;
+            case "2": document.write("monday"); break;
+            case "3": document.write("tuesday"); break;
+            case "4": document.write("wednesday"); break;
+            case "5": document.write("thursday"); break;
+            case "6": document.write("friday"); break;
+            case "7": document.write("sat"); break;
+            default: document.write("Not a valid week number"); break;
+        }
+    </script>-->
+    <script type="text/javascript">
+        var num = 1;
+        var sum = 0;
+        while (num < 10) {
+            sum += num;
+            num++;
+        }
+
+        document.write(sum+"\n");
+        do {
+            sum += num;
+            num++;
+        } while (num < 10);
+        document.write(sum+" \n");
+        for (var i = 0; i < 10; i++) {
+            sum += num;
+            num++;
+        }
+        document.write(sum);
+        
+    </script>
+</body>
+</html>

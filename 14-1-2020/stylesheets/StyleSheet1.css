@@ -1,0 +1,18 @@
+﻿table {
+    border: solid;
+   border-color:aquamarine;
+   background-image:url(minnions.jpg);
+   align-self:center;
+
+
+}
+#t1{
+    color:indianred;
+    
+}
+#t2{
+    color:aquamarine;
+}
+#t3{
+    color:cadetblue;
+}

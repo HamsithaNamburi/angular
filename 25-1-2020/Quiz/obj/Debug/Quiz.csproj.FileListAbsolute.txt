@@ -1,0 +1,6 @@
+D:\Hamsitha\25-1-2020\Quiz\bin\Debug\Quiz.exe.config
+D:\Hamsitha\25-1-2020\Quiz\bin\Debug\Quiz.exe
+D:\Hamsitha\25-1-2020\Quiz\bin\Debug\Quiz.pdb
+D:\Hamsitha\25-1-2020\Quiz\obj\Debug\Quiz.csprojAssemblyReference.cache
+D:\Hamsitha\25-1-2020\Quiz\obj\Debug\Quiz.exe
+D:\Hamsitha\25-1-2020\Quiz\obj\Debug\Quiz.pdb

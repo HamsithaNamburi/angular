@@ -1,0 +1,102 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Registration form</title>
+</head>
+<body>
+    <form style="background-color:blanchedalmond;align-self:center;">
+
+    <h1>Registration Form</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>Details</th>
+                    <th>Enter</th>
+                </tr>
+                <tr>
+                    <td>First Name</td>
+                
+                    <td>
+                        <input type="text" required pattern="[a-z]{5,10}" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Last Name</td>
+                
+                    <td>
+                        <input type="text" required pattern="[a-z]{5,10}" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Age</td>
+                
+           
+                    <td>
+                        <input type="number" min="20" max="60" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Gender</td>
+                
+                    <td>
+                        <input type="radio" name="gender" />Male
+                        <input type="radio" name="gender" />Female
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>Email</td>
+                
+                    <td>
+                        <input type="text" required pattern="[a-z,@]{0,9}" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Password</td>
+               
+                    <td>
+                        <input type="password" required pattern="[a-z,A-z]{0,9}" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Skills</td>
+
+                
+                    <td>
+                        <input type="checkbox" name="chk1" />C
+                        <input type="checkbox" name="chk2" />C++
+                        <input type="checkbox" name="chk3" />C#
+                        <input type="checkbox" name="chk4" />Java
+                    </td>
+
+                </tr>
+                <tr>
+                    <td>location</td>
+                   
+                    <td>
+                        <select>
+                            <option value="Hyderabad">Hyderabad</option>
+                            <option value="chennai">chennai</option>
+                            <option value="Bangolore">Bangolore</option>
+                            <option value="Pune">Pune</option>
+                            <option value="Kolkotha">Kolkotha</option>
+</select>
+
+                    </td>
+                </tr>
+                <tr>
+                    <td>Address</td>
+                
+                    <td>
+                        <textarea id="TextArea1" rows="2" cols="20"></textarea>
+                    </td>
+                </tr>
+                <tr>
+                    <td><input type="submit" value="submit" /></td>
+                </tr>
+            </thead>
+        </table>
+    </form>
+</body>
+</html>

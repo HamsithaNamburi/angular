@@ -1,0 +1,72 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>stylesheets</title>
+    <style type="text/css">
+        /* tag selector*/
+        h1 {
+            color: aquamarine;
+            font-size: 30;
+            background-color: antiquewhite;
+            text-decoration: line-through;
+        }
+        /* id selector*/
+        #pname {
+            color: hotpink;
+            font-style: oblique;
+        }
+        /* class selector*/
+        .p2 {
+            background-color: antiquewhite;
+            color: blue;
+            font-weight: bold;
+        }
+        /* attribute selector*/
+        input[type="text"]{
+            background-color:aquamarine;
+            color:cadetblue;
+        }
+        /* universal selctor selector*/
+        * {
+            font-style: italic;
+        }
+       /* group style*/
+        h3,h1{
+            background-color:antiquewhite;
+        }
+        /* inner tag selector*/
+        div p{
+            color:blue;
+        }
+        /*child tag selector*/
+       div>p{
+            color:red;
+        } 
+       div+p{
+           color:aquamarine;
+       }
+       div~h4{
+           color:cadetblue;
+       }
+    </style>
+</head>
+<body>
+    <h3 style="color:antiquewhite;font-size:20;">Welcome to css</h3> <!--inline style sheet-->
+    <p id="pname">welcome to our website</p>
+    <p class="p2">hotel booking facility at your doorsteps</p>
+    <h2 class="p2">welcome to chennai</h2>
+    <div>
+        <span><p>Welcome to our page1</p></span>
+
+        <h3>Username</h3><input type="text" />
+        <h3>Password</h3><input type="password" />
+        <h1>welcome to css</h1> 
+    </div>
+    <div> <p>Welcome to our page2</p></div>
+    <div>selector</div>
+    <p>immediate</p>
+    <h4>immediate</h4>
+    <div>precedence</div>
+</body>
+</html>

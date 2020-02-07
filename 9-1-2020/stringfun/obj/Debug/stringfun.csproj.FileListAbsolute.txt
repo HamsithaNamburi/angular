@@ -1,0 +1,6 @@
+D:\Hamsitha\9-1-2020\stringfun\bin\Debug\stringfun.exe.config
+D:\Hamsitha\9-1-2020\stringfun\bin\Debug\stringfun.exe
+D:\Hamsitha\9-1-2020\stringfun\bin\Debug\stringfun.pdb
+D:\Hamsitha\9-1-2020\stringfun\obj\Debug\stringfun.csprojAssemblyReference.cache
+D:\Hamsitha\9-1-2020\stringfun\obj\Debug\stringfun.exe
+D:\Hamsitha\9-1-2020\stringfun\obj\Debug\stringfun.pdb
